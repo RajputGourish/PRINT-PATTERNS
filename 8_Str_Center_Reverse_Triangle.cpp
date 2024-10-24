@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+
 using namespace std;
 /*
      OUTPUT of the code as we give input as a -> 5
